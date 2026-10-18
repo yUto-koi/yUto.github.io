@@ -10,6 +10,7 @@ const socials = [
   ['https://tiktok.com/@yuto_koi?_r=1&_t=ZS-95MkWdwy1DB', 'TikTok', 'fa-brands fa-tiktok'],
   ['https://t.me/yuto_koi', 'Telegram', 'fa-brands fa-telegram'],
   ['https://github.com/yUto-koi', 'GitHub', 'fa-brands fa-github'],
+  ['https://www.linkedin.com/in/kyawnyeinchanhtwe', 'Linkedin', 'fa-brands fa-linkedin'],
 ]
 
 export default function Contact({ showAlert }) {
